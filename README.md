@@ -1,5 +1,2 @@
-# RickRollBat
-Rickroll anyone with the "program installer" .bat file.
-Just download zip, extract and run the .bat file for it to work. 
-You may edit the .bat file, add folders and stuff since this is highly customizable, just don't upload it somewhere else ok.
-Made entirely for the purpose of Rickrolling - BurwitzBlagger
+# RickRollBatch
+After you've extracted the installer.bat file, create a folder (in the exact same dir as the .bat) that has the exact name of "data" (no quotation marks!!!!) and put inside that folder a rickroll video (or smt else) with the exact name of "nggyu.mp4" (again just ignore the quotation marks). If you want to do smt else good luck with editing the .bat file (no offense intended).
